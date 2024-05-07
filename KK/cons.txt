@@ -1,0 +1,320 @@
+HTML Consultancy project
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>??? Consultancy services</title>
+    <link rel="icon" href="Me.jpg">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color: black" >
+
+
+    
+    <center>
+    <h1> Consultancy services </h1>
+  
+      
+    <div class="Searchbar">
+     <input placeholder="Search">
+     </div></center>
+
+    </div>
+    <div class="Header">
+        <nav>
+            <h1 style="margin: 5px;">Consultancy services</h1>
+           
+                <ul>
+                    <li>Home |</li>
+                    <li>About us |</li>
+                    <li>Services |</li>
+                    <li>BPO |</li>
+                    <li>Voice process |</li>
+                    <li>Non voice process |</li>
+                    <li>Art |</li>
+                    <li>Photography |</li>
+                    <li>Contact</li>
+                </ul>
+
+             
+            </nav>
+            <br>
+            <img src="photo.jpg" style="width: 1700px;">
+
+
+        </div>
+
+    <div class="About us">
+            <center><h2>Consultancy services</h2>
+            <p>Our aim to empower our clients by providing them best business process outsourcing services to help them stay competitive in global market enable future-readiness built on customer-centricity and technological integrations. Our service and support boasts of excellence in service delivery, superior quality, and compelling business transformation of our clients. Using lending-edge technologies and strategies to help improve your business performance. To do this, we bring together our expertise in technology, our people’s skills and passion to contribute, together; we innovate for society and shape responsible business. Realizing tangible outcomes for our clients through provocative thinking and transformative insights, our service offerings and solutions across industry verticals are strengthened by alliances with technology vendors, customers, and niche solution providers. With a strong belief in core values like integrity, excellence, commitment and fairness, we continually strive to meet unique business needs of our clients. Our work culture is supported by the acumen & efficiency of our key members, extensive experience & positive attitude of our team?</p>
+        </center>
+
+
+    </div>
+    <br><Center>
+    <h1>Our Services</h1></Center>
+        <div class="services">
+            
+       
+        <div class="box">
+        <img src="bpo1.jpg" style="width: 250px; height: 210px;">
+       <center>  <h1>BPO Services</h1></center> 
+        <p style="width: 240px;">We are a leading global business services provider of customer experience management. We offer a comprehensive suite of solutions that helps your business</p>
+    
+</div>
+    <div class="box">
+        <img src="voice.jpg" style="width: 250px; height: 220px;">
+        <center> <h1>Voice process</h1></center> 
+        <p style="width: 240px;">A customer can make a phone call to the customer care for certain technical support, or raise a complaint. Also, the call can be made for issues or else to know about various offers…</p>
+
+    </div>
+    <div class="box">
+        <img src="non.jpg" style="width:250px; height: 200px ;">
+      <center> <h1>Non Voice process</h1></center> 
+        <p style="width: 240px;">This process requires the skill for writing or typing and the ability to understand the type of query for making the right processing.  The process for handling customer issues through emails and chat support</p>
+
+    </div>
+    <div class="box">
+        <img src="art.jpg" style="width: 240px; height: 180px;">
+     <center>  <h1>ART</h1></center> 
+        <p style="width: 240px;">Art is a diverse range of human activity and its resulting product that involves creative or imaginative talent generally expressive of technical proficiency, beauty, emotional power, or conceptual ideas.</p>
+
+    </div>
+    <div class="box">
+        <img src="photography.jpg" style="width: 250px; height: 200px;">
+      <center>   <h1 >Photography</h1></center> 
+        <p style="width: 240px;">Photography is the art, application, and practice of creating images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film</p>
+
+    </div>
+    <div class="boxx">
+    <h2>About</h2>
+    <p style="width: 250px; margin: 5px; display:inline-block;padding-top: 10p;" >we have a competent and dedicated team that holds expertise in their area of skills to provide you the best BPO services. Business organizations and firms often face the challenge of segregation the accurate record of their highly sensitive data that requires to be handled skillfully and here comes our part.</p></div>
+   
+
+    
+    <div class="boxxx">
+        <h1>Our links</h1><br><br>
+        <ol>
+   
+            <li>.Home</li><br>
+            <li>.About us</li><br>
+            <li>.Services</li><br>
+            <li>.BPO</li><br>
+            <li>.Voice process</li><br>
+            <li>.Non voice process</li><br>
+            <li>.Art</li><br>
+            <li>.photography</li><br><br>
+            </ol></div>
+            
+   <div class="boxxxx" style="display: inline-block;">
+   <h1>Qucik Contact</h1><br>
+   <br>
+   
+   <h2>Address</h2>
+   <h4>No:125, Anna Salai, Ponnamaravathy, <br>
+    Pudukkottai District, Tamil Nadu – 622407</h4><br>
+   <h3>Mobile:</h3>
+   <h4>7639564969</h4><br>
+   <h3>Mail To</h3>
+   <h4>kannannagappan55@gmail.com</h4><br><br><br><br>
+</div>
+
+</div>
+    
+   
+ 
+    <div class="BPO"></div>
+    <div class="Voice process"></div>
+    <div class="Non voice process"></div>
+    <div class="Art"></div>
+    <div class="Photography"></div>
+    <br>
+    <div  style="font-size: 40px;">
+   <center> <a href="https://www.facebook.com/">?</a>
+    <a href="https://twitter.com/?lang=en-in"> ??????</a>
+    <a href="https://www.instagram.com/">[?°]</a>
+</center>
+   
+   
+   
+   
+    </div>
+   </div>
+    
+
+
+</body>
+</html>
+
+                                         CSS
+
+input{
+
+    padding: 15px;
+    width: 50%;
+    height: 1px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+h1{
+  height: 20px;
+  width: 10px;
+  font-size: 30px;
+
+}
+
+
+ul,li,h1{
+    display: inline;
+  
+}
+ul{
+    margin-left: 42%;
+    padding-left: 60px;
+ 
+}
+
+li{
+
+    color: white;
+    cursor:pointer;
+}
+li:hover{
+    color: blueviolet;
+    
+}
+
+p{
+    padding: 5px;
+    width: 1300px;
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+
+.box{
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    display: inline-block;
+    width: 250px;
+   margin: 30px;
+   
+    
+
+}
+.boxx{
+
+border-color: black;
+border-width: 0px;
+border-style: solid;
+display: inline-block;
+
+margin: 20px;
+
+}
+.boxxx{
+
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    display: inline-block;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 25px;
+    
+
+}
+.boxxxx{
+
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    display: inline-block;
+    padding-left: 100px;
+    padding-bottom: 60px;
+    
+
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+ slider frame
+slider-frame{
+    overflow: hidden;
+    height: 800px;
+    width: 1200px;
+    margin-left: 360px;
+    margin-top: 20px;
+}
+@-webkit-keyframes slide_animation{
+    0%{left: 0px;}
+    10%{left: 0px;}
+    20%{left: 1200px;}
+    30%{left: 1200px;}
+    40%{left:2400px}
+    50%{left: 2400px;}
+    60%{left: 1200px;}
+    70%{left: 1200px;}
+    80%{left: 0px;}
+    90%{left: 0px;}
+    100%{left: 0px;}
+}
+.slide-image{
+    width: 3600px;
+    height: 800px;
+    margin: 0 0 0 -2400px;
+    position: relative;
+    -webkit-animation-name: slide_animation;
+    -webkit-animation-duration: 34s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
+}
+.img-container{
+    height: 800px;
+    width: 1200px;
+    position: relative;
+    float: left;
+}
+
+
+
+
+
+ <div class="slider-frame">
+            <div class="slide-images">
+                <div class="img-container">
+                    <img src="image/img1.jpg">
+                </div>
+
+                <div class="img-container">
+                    <img src="image/img2.jpg">
+                </div>
+
+                <div class="img-container">
+                    <img src="image/img3.jpg">
+                </div>
+
+                <div class="img-container">
+                    <img src="image/img4.jpg">
+                </div>
+             </div>
+            </div>
+ 
